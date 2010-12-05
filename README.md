@@ -27,7 +27,7 @@ How to install
 Checkout the repository and copy `mp.py`, `mp.gedit-plugin` and `markdown.py`
 to `~/.gnome2/gedit/plugins` .
 
-Afterwards, be sure to restart Gedit and activate the `GitHub Markdown Preview` plugin.
+Afterwards, be sure to restart Gedit and activate the `Markdown Preview` plugin.
 
 How to use
 ----------
