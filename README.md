@@ -24,7 +24,9 @@ The initial `Github Markdown` stylesheet has been grabbed from FNass's [blog](ht
 
 How to install
 --------------
-Checkout the repository and copy `mp.py`, `mp.gedit-plugin` and `markdown.py`
+You'll need to install `python-webkit` in order to use this plugin.
+
+Once you have that, checkout the repository and copy `mp.py`, `mp.gedit-plugin` and `markdown.py`
 to `~/.gnome2/gedit/plugins` .
 
 Afterwards, be sure to restart Gedit and activate the `Markdown Preview` plugin.
